@@ -111,6 +111,7 @@ body {
 .header {
 	height: 789px;
 	background: url('./Images/Rectangle.png');
+	width: 1535px;
 }
 
 .header .navbar {
