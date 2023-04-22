@@ -110,7 +110,7 @@ body {
 
 .header {
 	height: 789px;
-	background: url('./Images/Rectangle.png');
+	background: url('../Images/Rectangle.png');
 }
 
 .header .navbar {
@@ -590,7 +590,7 @@ body {
 }
 
 .footer .back-img {
-	background-image: url(./Images/last-background.png);
+	background-image: url(../Images/last-background.png);
 	height: 600px;
 	overflow: hidden
 }
